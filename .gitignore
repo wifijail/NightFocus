@@ -1,0 +1,36 @@
+# Byte-compiled / cache
+__pycache__/
+*.py[cod]
+*.pyo
+
+# Packaging
+build/
+dist/
+*.egg-info/
+*.spec
+
+# Virtual environments
+.venv/
+venv/
+env/
+
+# Night Focus runtime data (created under the OS app-data folder by
+# default, but ignored here in case the app is ever run with a local
+# override, or an older version's files linger in the repo checkout)
+night_focus_data.json
+night_focus_audio.wav
+night_focus_shot.png
+session.json
+settings.json
+voice_note.wav
+screenshot.png
+
+# OS
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Editors
+.vscode/
+.idea/
+*.swp
