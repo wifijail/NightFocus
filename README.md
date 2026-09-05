@@ -3,10 +3,7 @@
 A small, always-on-top desktop companion that fights "night-time context loss": that moment before bed when you finally remember the one thing you meant to write down, or the point where you stopped mid-task and know you'll forget it by morning.
 
 Night Focus works in two phases. At night, capture a quick note, a screenshot, and a voice memo, then go to sleep. In the morning, it opens automatically with everything laid out, ready to review in one glance.
-## Screenshots
-![Night Focus App](screenshot1.png)
-## Screenshots
-![Night Focus App](screenshot2.png)
+
 
 *Читать на русском: [README.ru.md](README.ru.md)*
 
@@ -25,8 +22,9 @@ Night Focus works in two phases. At night, capture a quick note, a screenshot, a
 - **Graceful degradation** — the app keeps working without a microphone, without permission to register a global hotkey, or without rights to enable autostart. Each of those failures is caught and surfaced as a small message instead of a crash.
 
 ## Screenshots
-
-*Add a short demo GIF here (e.g. recorded with ScreenToGif or Kap) showing the night → morning flow: `docs/demo.gif`*
+![Night Focus App](screenshot1.png)
+## Screenshots
+![Night Focus App](screenshot2.png)
 
 ## Installation
 
