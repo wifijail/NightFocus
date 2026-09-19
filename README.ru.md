@@ -35,8 +35,8 @@ Night Focus работает в две фазы. Вечером — быстро
 ### Из исходников
 
 ```bash
-git clone https://github.com/<your-username>/night-focus.git
-cd night-focus
+git clone https://github.com/wifijail/NightFocus.git
+cd NightFocus
 python -m venv venv
 
 # Windows
