@@ -36,7 +36,7 @@ Night Focus works in two phases. At night, capture a quick note, a screenshot, a
 ### From source
 
 ```bash
-git clone https://github.com/<your-username>/night-focus.git
+git clone https://github.com/wifijail/night-focus.git
 cd night-focus
 python -m venv venv
 
